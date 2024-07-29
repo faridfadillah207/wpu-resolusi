@@ -6,4 +6,4 @@ RENCANA KONTEN WPU
 - Struktur Data Dasar
 - php framworks
 - interview
-- vlog
+- vlogs
